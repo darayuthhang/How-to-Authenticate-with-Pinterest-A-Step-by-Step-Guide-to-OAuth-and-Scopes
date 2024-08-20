@@ -1,1 +1,1 @@
-# How-to-Authenticate-with-Pinterest-A-Step-by-Step-Guide-to-OAuth-and-Scopes
+# How-to-Authenticate-with-Pinterest using Node js and Express
