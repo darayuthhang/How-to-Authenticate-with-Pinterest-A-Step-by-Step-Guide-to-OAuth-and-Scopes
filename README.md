@@ -1,0 +1,1 @@
+# How-to-Authenticate-with-Pinterest-A-Step-by-Step-Guide-to-OAuth-and-Scopes
