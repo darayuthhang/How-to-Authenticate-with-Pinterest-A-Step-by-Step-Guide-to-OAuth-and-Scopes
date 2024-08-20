@@ -4,7 +4,7 @@ const axios = require("axios");
 const qs = require("querystring");
 
 const clientId = ""; //app id 
-const redirectUri = "http://localhost:3000/"; // URL-encoded
+const redirectUri = "http://localhost:3000/"; // URL-encoded this is where you need to add in the app 
 const scope = encodeURIComponent("boards:read,pins:read"); // URL-encoded
 const state = encodeURIComponent("YOUR_OPTIONAL_STATE"); // URL-encoded
 const clientSecret = ""; //client secret id 
